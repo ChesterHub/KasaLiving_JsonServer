@@ -6,7 +6,7 @@
          "checkOutDate": "2020-02-14",
          "city": "San Francisco, CA",
          "rating": null,
-         "cityImage": "<https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg>"
+         "cityImage": "https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg"
       },
       {
          "confirmationCode": "BBBBBB",
@@ -14,7 +14,7 @@
          "checkOutDate": "2020-03-14",
          "city": "Los Angeles, CA",
          "rating": 3,
-         "cityImage": "<https://cdn.pixabay.com/photo/2016/10/25/12/28/los-angeles-1768743_960_720.jpg>"
+         "cityImage": "https://cdn.pixabay.com/photo/2016/10/25/12/28/los-angeles-1768743_960_720.jpg"
       },
       {
          "confirmationCode": "CCCCCC",
@@ -22,7 +22,7 @@
          "checkOutDate": "2020-04-14",
          "city": "New York City, NY",
          "rating": 5,
-         "cityImage": "<https://cdn.pixabay.com/photo/2016/01/19/18/00/city-1150026_960_720.jpg>"
+         "cityImage": "https://cdn.pixabay.com/photo/2016/01/19/18/00/city-1150026_960_720.jpg"
       }
    ],
    "AAAAAA": {
@@ -31,7 +31,7 @@
       "checkOutDate": "2020-02-14",
       "city": "San Francisco, CA",
       "rating": null,
-      "cityImage": "<https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg>"
+      "cityImage": "https://cdn.pixabay.com/photo/2013/11/13/21/14/san-francisco-210230_960_720.jpg"
    },
    "BBBBBB" : {
       "confirmationCode": "BBBBBB",
@@ -39,7 +39,7 @@
       "checkOutDate": "2020-03-14",
       "city": "Los Angeles, CA",
       "rating": 3,
-      "cityImage": "<https://cdn.pixabay.com/photo/2016/10/25/12/28/los-angeles-1768743_960_720.jpg>"
+      "cityImage": "https://cdn.pixabay.com/photo/2016/10/25/12/28/los-angeles-1768743_960_720.jpg"
    },
    "CCCCCC" : {
       "confirmationCode": "CCCCCC",
@@ -47,6 +47,6 @@
       "checkOutDate": "2020-04-14",
       "city": "New York City, NY",
       "rating": 5,
-      "cityImage": "<https://cdn.pixabay.com/photo/2016/01/19/18/00/city-1150026_960_720.jpg>"
+      "cityImage": "https://cdn.pixabay.com/photo/2016/01/19/18/00/city-1150026_960_720.jpg"
    }
 }
