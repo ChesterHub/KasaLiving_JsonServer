@@ -1,5 +1,5 @@
 {
-   "allReservations" : [
+   "reservations" : [
       {
          "confirmationCode": "AAAAAA",
          "checkInDate": "2020-02-10",
